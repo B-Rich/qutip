@@ -1,3 +1,5 @@
+This is a fork of the original repo for supporting this software, as we include it into our curated AWS image, Bayesforge, of innovative Open Source QIS and Data Science software.  
+
 QuTiP: Quantum Toolbox in Python
 ================================
 
